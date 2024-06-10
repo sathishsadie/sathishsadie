@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sathishsadie
 - 👀 I’m interested in Data Science, Machine Learning, AI.
 - 🌱 I’m currently learning AI.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Science.
 - 📫 How to reach me https://www.linkedin.com/in/sathish-g-b9755925b/
 - 😄 Pronouns: He
 
