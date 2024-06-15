@@ -1,11 +1,19 @@
-- 👋 Hi, I’m @sathishsadie
-- 👀 I’m interested in Data Science, Machine Learning, AI.
-- 🌱 I’m currently learning AI.
-- 💞️ I’m looking to collaborate on Data Science.
-- 📫 How to reach me https://www.linkedin.com/in/sathish-g-b9755925b/
-- 😄 Pronouns: He
+# Hi there, I'm Sathish! 👋
 
-<!---
-sathishsadie/sathishsadie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm passionate about Data Science, Machine Learning, and AI. Welcome to my GitHub profile!
+
+## About Me
+
+- 👨‍💻 Data Science enthusiast currently diving into the world of AI.
+- 🌱 I’m currently learning and exploring various AI technologies.
+- 💼 Open to collaborate on Data Science projects.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sathish-g-b9755925b/)
+
+## Skills
+
+- Python
+- Machine Learning
+- Data Analysis
+
+
+
