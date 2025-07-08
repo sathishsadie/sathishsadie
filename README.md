@@ -17,8 +17,8 @@ I'm an enthusiastic learner and builder in the field of Data Science, Machine Le
 
 ## 🧠 Skills & Tools
 
-**Languages:** Python, Java  
-**Frameworks & Libraries:** Scikit-learn, TensorFlow, OpenCV, FastAPI  
+**Languages:** Python, Java, SQL
+**Frameworks & Libraries:** Scikit-learn, PyTorch, OpenCV, FastAPI  
 **GenAI Tools:** LangChain, CrewAI, FAISS, Ollama  
 **Cloud & DevOps:** AWS (EC2, S3), Docker, Postman, RapidAPI  
 **Data & Visualization:** Pandas, NumPy, Power BI, Excel, Matplotlib, Seaborn  
